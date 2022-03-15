@@ -54,6 +54,7 @@ header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
     margin-bottom: 20px;
+    font-weight: normal;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.685);
 }
 
@@ -103,13 +104,16 @@ main img {
 }
 
 main h1 {
+    font-weight: normal;
     font-family: var(--fonte-android);
     color: var(--cor5);
+    font-size: 1.8em;
 }
 
 main h2 {
     font-family: var(--fonte-android);
     color: var(--cor5);
+    font-weight: normal;
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor2), transparent);
     padding: 3px 6px;

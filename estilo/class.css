@@ -5,3 +5,7 @@ main img.pequeno {
     display: block;
     margin: auto;
 }
+
+a.externo::after {
+    content: '\00A0\1F517';
+}

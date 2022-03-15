@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+main img.pequeno {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
